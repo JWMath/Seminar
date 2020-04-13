@@ -2,10 +2,14 @@
 
 ## Toplogy
    [Stanford University Topology Seminar](https://mathematics.stanford.edu/events/topology)
+   
    [MIT Topology Seminar](https://math.mit.edu/topology/index.html)
+   
    [MIT Geometry and Topology Seminar](https://sites.google.com/site/yupanduke/GTseminar)
+   
    [OXford Topology Seminar](https://www.maths.ox.ac.uk/events/list/700/all)
-   [Princeton Topology Seminar]https://www.math.princeton.edu/events/seminars/topology-seminar
+   
+   [Princeton Topology Seminar](https://www.math.princeton.edu/events/seminars/topology-seminar)
 ## Knot Theory
    [Seminars on knot theory and related topics](https://www.ktrt-seminars.com/)
 ## Others
