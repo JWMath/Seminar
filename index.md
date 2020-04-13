@@ -1,4 +1,4 @@
-# 旨在分类整理Seminars
+#  This is made for record Seminars.
 
 ## Toplogy
    [Stanford University Topology Seminar](https://mathematics.stanford.edu/events/topology)
