@@ -14,10 +14,13 @@
    [Seminars on knot theory and related topics](https://www.ktrt-seminars.com/)
 ## Others
    [Online group theory seminars](https://nato.li/grouptheory)
+   
    [The n-Category Café](https://golem.ph.utexas.edu/category/)
+   
    [ACT@UCR Seminar](https://sites.google.com/ucr.edu/actucr/)
 ## List 
    [Mathematics Seminars List](https://jaume.dedios.cat/math-seminars/)
-   [Math seminars]https://mathseminars.org/
+   
+   [Math seminars](https://mathseminars.org/)
    
    
