@@ -23,4 +23,5 @@
    
    [Math seminars](https://mathseminars.org/)
    
-   
+## Weekly (Not all seminars, just for personal interest)
+   [2020.4.13-4.19](https://github.com/JWMath/Seminars/blob/master/2020.4.13-4.19.md)
