@@ -1,15 +1,15 @@
 #  This is made for a collection of Seminars' information.
 
 ## Toplogy
-   [Stanford University Topology Seminar](https://mathematics.stanford.edu/events/topology)
+   [Stanford University Topology Seminar](https://mathematics.stanford.edu/events/topology), (UTC+8 Wednesday 7:00)
    
-   [MIT Topology Seminar](https://math.mit.edu/topology/index.html)
+   [MIT Topology Seminar](https://math.mit.edu/topology/index.html) (UTC+8 Tuesday 4:30 )
    
    [MIT Geometry and Topology Seminar](https://sites.google.com/site/yupanduke/GTseminar)
    
    [OXford Topology Seminar](https://www.maths.ox.ac.uk/events/list/700/all)
    
-   [Princeton Topology Seminar](https://www.math.princeton.edu/events/seminars/topology-seminar)
+   [Princeton Topology Seminar](https://www.math.princeton.edu/events/seminars/topology-seminar) (UTC+8 Friday 4:30)
    
    [Topology and Geometric Group Theory Seminars at the Ohio State University](https://sites.google.com/view/topoandggt)
    
