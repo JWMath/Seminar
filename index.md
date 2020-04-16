@@ -5,9 +5,9 @@
    
    [MIT Topology Seminar](https://math.mit.edu/topology/index.html) (UTC+8 Tuesday 4:30 )
    
-   [MIT Geometry and Topology Seminar](https://sites.google.com/site/yupanduke/GTseminar)
+   [MIT Geometry and Topology Seminar](https://sites.google.com/site/yupanduke/GTseminar) (UTC+8 3:00)
    
-   [OXford Topology Seminar](https://www.maths.ox.ac.uk/events/list/700/all)
+   [OXford Topology Seminar](https://www.maths.ox.ac.uk/events/list/700/all) (UTC+8 Monday 22:45)
    
    [Princeton Topology Seminar](https://www.math.princeton.edu/events/seminars/topology-seminar) (UTC+8 Friday 4:30)
    
@@ -15,9 +15,9 @@
    
    [Geometry and Topology Seminar at VCU](https://sites.google.com/vcu.edu/gtmp/home)
 ## Knot Theory
-   [Seminars on knot theory and related topics](https://www.ktrt-seminars.com/)
+   [Seminars on knot theory and related topics](https://www.ktrt-seminars.com/) (UTC+8 Wednesday 15:30)
    
-   [KNOT ONLINE SEMINAR](https://lrobert.perso.math.cnrs.fr/kos.html) 
+   [KNOT ONLINE SEMINAR](https://lrobert.perso.math.cnrs.fr/kos.html) (UTC+8 Thursday 21:00)
 ## Others
    [Online group theory seminars](https://nato.li/grouptheory)
    
