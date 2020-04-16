@@ -10,10 +10,20 @@
    [OXford Topology Seminar](https://www.maths.ox.ac.uk/events/list/700/all)
    
    [Princeton Topology Seminar](https://www.math.princeton.edu/events/seminars/topology-seminar)
+   
+   [Topology and Geometric Group Theory Seminars at the Ohio State University](https://sites.google.com/view/topoandggt)
+   
+   [Geometry and Topology Seminar at VCU](https://sites.google.com/vcu.edu/gtmp/home)
 ## Knot Theory
    [Seminars on knot theory and related topics](https://www.ktrt-seminars.com/)
+   
+   [KNOT ONLINE SEMINAR](https://lrobert.perso.math.cnrs.fr/kos.html) 
 ## Others
    [Online group theory seminars](https://nato.li/grouptheory)
+   
+   [Stanford algebraic geometry seminar](https://agstanford.com/2020/03/27/the-stanford-algebraic-geometry-seminar-online/)
+   
+   [Western Algebraic Geometry Online](https://sites.math.washington.edu/~jarod/wagon.html)
    
    [The n-Category Café](https://golem.ph.utexas.edu/category/)
    
